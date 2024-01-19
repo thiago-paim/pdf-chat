@@ -1,0 +1,15 @@
+duckduckgo-search
+faiss-cpu
+huggingface_hub
+jupyter
+langchain
+langchain_experimental
+openai
+pandas
+PyPDF2
+python-dotenv
+scikit-learn
+tiktoken
+tqdm
+transformerspip
+wikipedia
